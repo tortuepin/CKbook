@@ -1,3 +1,4 @@
 *.pdf
 data
 ans
+.DS_Store
